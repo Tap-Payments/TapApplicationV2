@@ -13,7 +13,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/Tap-Payments/TapAdditionsKitV2.git", from: "0.0.19")
+        .package(url: "https://github.com/Tap-Payments/TapAdditionsKitV2.git", from: "0.0.21")
     ],
     targets: [
         .target(
