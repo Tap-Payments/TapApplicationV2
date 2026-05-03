@@ -6,6 +6,7 @@
 //
 
 import enum UIKit.UIDevice.UIUserInterfaceIdiom
+import Foundation
 
 /// Protocol to retrieve most of the plist information from bundle.
 public protocol TapBundleWithPlist {

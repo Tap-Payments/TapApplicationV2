@@ -17,6 +17,7 @@ import class    UIKit.UITabBar.UITabBar
 import enum     UIKit.UIView.UISemanticContentAttribute
 import class    UIKit.UIView.UIView
 import class    UIKit.UIViewController.UIViewController
+import Foundation
 
 /// Tap Application interface.
 public protocol TapApplication: TapApplicationWithPlist {
